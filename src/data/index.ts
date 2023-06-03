@@ -147,8 +147,40 @@ export const trips = [
     city: "Budapest",
     country: "Hungry",
     dates: {
-      start: "06/02/2023",
+      start: "06/03/2023",
       end: "06/07/2023",
+    },
+  },
+  {
+    city: "Zagreb",
+    country: "Croatia",
+    dates: {
+      start: "06/02/2023",
+      end: "06/03/2023",
+    },
+  },
+  {
+    city: "Vienna",
+    country: "Austria",
+    dates: {
+      start: "06/07/2023",
+      end: "06/12/2023",
+    },
+  },
+  {
+    city: "Frankfurt",
+    country: "Germany",
+    dates: {
+      start: "06/12/2023",
+      end: "06/19/2023",
+    },
+  },
+  {
+    city: "Colonge",
+    country: "Germany",
+    dates: {
+      start: "06/19/2023",
+      end: "06/22/2023",
     },
   },
   {
